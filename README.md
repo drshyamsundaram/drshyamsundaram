@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drshyamsundaram
 - 👀 I’m interested in Data Science, Machine Learning & Community Data Models
-- 🌱 I’m currently working on Graph Data Models, Privacy Engineering, Community Data Models
+- 🌱 I’m currently working on DEPA (Data Empowerment and Protection Architecture), Graph Data Models, Privacy Engineering, Community Data Models
 - 💞️ I’m looking to collaborate on Graph Data Models, Privacy Engineering, Community Data Models
 - 📫 How to reach me ...drshyamsundaramindia@gmail.com
 
